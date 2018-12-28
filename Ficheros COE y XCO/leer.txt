@@ -1,0 +1,2 @@
+El fichero ROM debe instaciarse con un modulo simple port ROM de 3 bits de ancho de palablra y 5632 palabras.
+El fichero tablero_snake se instancia con un modulo true dual Port RAM de 5 bits de ancho y 960 palabras.
