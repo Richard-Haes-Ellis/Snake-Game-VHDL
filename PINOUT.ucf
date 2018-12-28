@@ -1,0 +1,22 @@
+NET "clk" LOC = "M6";
+NET "reset" LOC = "P11";
+
+NET "RED<0>" LOC = "C14";
+NET "RED<1>" LOC = "D13";
+NET "RED<2>" LOC = "F13";
+
+NET "GRN<0>" LOC = "F14";
+NET "GRN<1>" LOC = "G13";
+NET "GRN<2>" LOC = "G14";
+
+NET "BLUE<0>" LOC = "H13";
+NET "BLUE<1>" LOC = "J13";
+
+NET "HS" LOC = "J14";
+NET "VS" LOC = "K13";
+
+
+NET "button_up" LOC = "M4";
+NET "button_down" LOC = "C11";
+NET "button_right" LOC = "G12";
+NET "button_left" LOC = "A7";
